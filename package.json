@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Examen Finale PROG1\r # Membres\r | Nom complet                                                 | Numéro STD       |\r |-------------------------------------------------------------|------------------|\r | RAMAHAVATRAHARISOA Ny Anja Manana                           | STD24180         |\r | TOLOJANAHARY Anjarasoa Hanitra Miora Julia Lucie            | STD2418          |\r | Maherison Yanne Koloina Vatosoa                             | STD24007         |\r | Rabenja Aaron Maharinisoa                                   | STD24167         |",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
